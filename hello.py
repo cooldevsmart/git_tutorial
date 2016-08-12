@@ -1,7 +1,8 @@
-//For command line git6 tutorial
-// GitHub modification
+// For command line git tutorial
+// Local repository modification
 
 print("Hello world")
 print("Tell Your World")
 print("Tell his world")
 print("Tell her world")
+print("Tell my world")
